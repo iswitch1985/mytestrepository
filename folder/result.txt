@@ -1,0 +1,1 @@
+the result text is: text in first filetext in second file

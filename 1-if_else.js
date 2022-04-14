@@ -5,7 +5,7 @@ const amount = 12
 //this line is add from remote123123214xxx
 if (amount < 10) {
 console.log('small number')
-// this commented is added in VS code
+// this commented is added in VS code  jhhh
 }
 else{
 console.log('large number')

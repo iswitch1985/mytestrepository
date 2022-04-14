@@ -6,6 +6,7 @@ const amount = 12
 if (amount < 10) {
 console.log('small number')
 // this commented is added in VS code  jhhh---c
+//tt
 }
 else{
 console.log('large number')

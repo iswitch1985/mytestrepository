@@ -3,6 +3,7 @@ const amount = 12
 // this changes are from code_copy
 //this line is coming from branch1
 //this line is add from re
+//-----------
 if (amount < 10) {
 console.log('small number')
 // this commented is added in VS code  jhhh---c
